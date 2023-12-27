@@ -29,7 +29,7 @@ export default function Home() {
   };
 
   return (
-    <main className="max-w-6xl w-full min-h-screen p-4 md:p-24 bg-gray-100">
+    <main className="max-w-6xl w-full min-h-screen p-4 md:p-24">
       <h1 className="text-4xl font-bold">Simple Todo App</h1>
       <p className="mt-4 text-lg">
         Next.js × Typescriptのみで作成したシンプルなTodoアプリです。
